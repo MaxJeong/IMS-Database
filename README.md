@@ -1,7 +1,5 @@
 # IMS-Database
-Read Me
 
-===================================
 The following are instructions for the database.
 ===================================
 
@@ -17,6 +15,7 @@ table/setup.sql
 This will create the tables and data, stored procedures, triggers, views.
 
 =================================================
+
 Python
 
 We used version 3.4 with MYSQL connector https://dev.mysql.com/downloads/connector/python/
@@ -26,6 +25,7 @@ which you will need to download.
 The file you will want to run is terminal.py
 
 =================================================
+
 Php
 
 To set up the copy locally get a webserver going, copy the web folder to the root directory for webserver and done.
@@ -33,5 +33,3 @@ To set up the copy locally get a webserver going, copy the web folder to the roo
 There is a configuration in the folder tpl/Config.php
 
 This connects to our mysql server and you can change to your own server.
-
-=================================================
